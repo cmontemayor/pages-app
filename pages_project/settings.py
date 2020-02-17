@@ -25,7 +25,7 @@ SECRET_KEY = 'uhvdi_@pt6@^xnfs&&=2%be2^_$gv=rwp80%px8t1_j^yg_9!f'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
